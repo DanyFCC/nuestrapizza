@@ -21,3 +21,5 @@
 20. Sacar la pizza del horno.
 21. Porcionarla.
 22. Disfrutar la pizza.
+
+lista unida
